@@ -5,7 +5,13 @@ const person = {
   age: 80,
 };
 
-// Write your code here, make sure the name of variables is exactly same as mentioned in the problem statement
+// Write your code here, make sure the name of 
+//variables is exactly same as mentioned in the problem statement
+var team=["sonu","kumar","gupta"];
+var team1=["sonu","kuar","gupta"];
+console.log(team,team1)
+var cap1=["John", "Bob", "Alice", "Poppy"];
+console.log(cap1)
 
 window.players = players;
 window.person = person;
