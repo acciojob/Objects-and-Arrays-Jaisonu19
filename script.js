@@ -7,11 +7,9 @@ const person = {
 
 // Write your code here, make sure the name of 
 //variables is exactly same as mentioned in the problem statement
-var team=["sonu","kumar","gupta"];
-var team1=["sonu","kuar","gupta"];
-console.log(team,team1)
-var cap1=["John", "Bob", "Alice", "Poppy"];
-console.log(cap1)
+var team=players;
+var team1=players;
+var cap1=person;
 
 window.players = players;
 window.person = person;
