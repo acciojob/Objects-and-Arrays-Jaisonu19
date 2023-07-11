@@ -9,8 +9,8 @@ const person = {
 //variables is exactly same as mentioned in the problem statement
 var team=players;
 var team1={
-	name: "John", "Bob", "Alice", "Poppy",
-}
+	name: "John",
+};
 var cap1={
 	name: "John Doe",
   age: 80,
